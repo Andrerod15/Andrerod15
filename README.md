@@ -1,16 +1,40 @@
-## Hi there 👋
+ # 👋 Olá, sou o André
 
-<!--
-**Andrerod15/Andrerod15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Residente em Análise de Dados, focado em aprender técnicas de coleta, tratamento e interpretação de dados para gerar insights que ajudem na tomada de decisões.
 
-Here are some ideas to get you started:
+🚀 Meu objetivo é crescer profissionalmente na área de Data Science, aplicando conhecimento em projetos reais e contribuindo para soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudo ferramentas e linguagens como Python, Pandas, NumPy, Matplotlib e Scikit-learn. 
+Também estou me dedicando ao aprendizado dos idiomas inglês e espanhol.
+
+🌍 Resido em Petrópolis - RJ, aberto a oportunidades que me desafiem e me façam evoluir.
+
+---
+
+# 👋 Hola, soy André
+
+🎓 Residente en Análisis de Datos, enfocado en aprender técnicas de recolección, tratamiento e interpretación de datos para generar insights que ayuden en la toma de decisiones.
+
+🚀 Mi objetivo es crecer profesionalmente en el área de Data Science, aplicando conocimientos en proyectos reales y contribuyendo a soluciones eficientes.
+
+📚 Actualmente estudio herramientas y lenguajes como Python, Pandas, NumPy, Matplotlib y Scikit-learn.
+🇪🇸 También me estoy dedicando al aprendizaje de los idiomas inglés y español.
+
+🌍 Vivo en Petrópolis - RJ, abierto a oportunidades que me desafíen y me hagan crecer.
+
+---
+
+# 👋 Hi, I'm André
+
+🎓 Data Analysis resident, focused on learning techniques for data collection, cleaning, and interpretation to generate insights that support decision making.
+
+🚀 My goal is to grow professionally in Data Science, applying knowledge in real projects and contributing to efficient solutions.
+
+📚 Currently studying tools and languages like Python, Pandas, NumPy, Matplotlib, and Scikit-learn.
+I am also dedicating myself to learning English and Spanish.
+
+🌍 Based in Petrópolis - RJ, open to opportunities that challenge me and help me grow.
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrerod15/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Andrerod15-black?logo=github)](https://github.com/Andrerod15)
