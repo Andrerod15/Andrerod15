@@ -5,7 +5,7 @@
 🚀 Meu objetivo é crescer profissionalmente na área de Data Science, aplicando conhecimento em projetos reais e contribuindo para soluções eficientes.
 
 📚 Atualmente estudo ferramentas e linguagens como Python, Pandas, NumPy, Matplotlib e Scikit-learn. 
-Também estou me dedicando ao aprendizado dos idiomas inglês e espanhol.
+Também estou me dedicando constantemente ao aprendizado dos idiomas inglês e espanhol.
 
 🌍 Resido em Petrópolis - RJ, aberto a oportunidades que me desafiem e me façam evoluir.
 
@@ -18,7 +18,7 @@ Também estou me dedicando ao aprendizado dos idiomas inglês e espanhol.
 🚀 Mi objetivo es crecer profesionalmente en el área de Data Science, aplicando conocimientos en proyectos reales y contribuyendo a soluciones eficientes.
 
 📚 Actualmente estudio herramientas y lenguajes como Python, Pandas, NumPy, Matplotlib y Scikit-learn.
-🇪🇸 También me estoy dedicando al aprendizaje de los idiomas inglés y español.
+🇪🇸 También me estoy dedicando constantemente al aprendizaje de los idiomas inglés y español.
 
 🌍 Vivo en Petrópolis - RJ, abierto a oportunidades que me desafíen y me hagan crecer.
 
@@ -31,7 +31,7 @@ Também estou me dedicando ao aprendizado dos idiomas inglês e espanhol.
 🚀 My goal is to grow professionally in Data Science, applying knowledge in real projects and contributing to efficient solutions.
 
 📚 Currently studying tools and languages like Python, Pandas, NumPy, Matplotlib, and Scikit-learn.
-I am also dedicating myself to learning English and Spanish.
+I am also consistently dedicating myself to learning English and Spanish.
 
 🌍 Based in Petrópolis - RJ, open to opportunities that challenge me and help me grow.
 
